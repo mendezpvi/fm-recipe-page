@@ -131,7 +131,7 @@ body {
   margin-top: .9rem;
   inline-size: 100%;
   border-collapse: separate;
-  border-spacing: 0 0; /* Espacio entre las filas */
+  border-spacing: 0 0; /* Row spacing */
 }
 .nutrition__table td {
   line-height: 2.82;
