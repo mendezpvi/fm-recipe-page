@@ -135,7 +135,11 @@ body {
 }
 .nutrition__table td {
   line-height: 2.82;
-  padding-left: -1rem;
+  padding-left: 2rem;
+}
+
+.nutrition__table td.accent {
+  padding-right: 1.15rem;
 }
 
 .nutrition__table tr:not(:last-child) td {
